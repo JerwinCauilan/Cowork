@@ -1,5 +1,5 @@
 # React + Vite + Tailwind CSS
-- [Installation](#installation)
+- [Introduction](#introduction)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
