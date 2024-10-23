@@ -1,8 +1,6 @@
 # Cowork using React + Vite + Tailwind CSS
 - [Introduction](#introduction)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project is a front-end application built using React, Vite, and Tailwind CSS.
