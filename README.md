@@ -17,7 +17,7 @@ Currently, two official plugins are available:
 
 1. Setup:
    ```bash
-   run npm install
+   npm install
 2. Run:
    ```bash
-   run npm run dev
+   npm run dev
