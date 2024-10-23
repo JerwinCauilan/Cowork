@@ -13,8 +13,8 @@ Currently, two official plugins are available:
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
+## Introduction
 
-1. Clone the repository:
+1. Setup:
    ```bash
    git clone https://github.com/username/repo-name.git
