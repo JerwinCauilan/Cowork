@@ -17,4 +17,7 @@ Currently, two official plugins are available:
 
 1. Setup:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   run npm install
+2. Run:
+   ```bash
+   run npm run dev
