@@ -28,4 +28,5 @@ To get started with the project, follow these steps:
 4. Run the development server:
    ```bash
    npm run dev
-**Open your browser:** Navigate to `http://localhost:5173` (or the port specified in your terminal) to see your application in action.
+5. Open your browser:
+Navigate to `http://localhost:5173` (or the port specified in your terminal) to see your application in action.
